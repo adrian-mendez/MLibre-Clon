@@ -368,12 +368,14 @@ div.bgCard2 p {
     }
 
     .w-100 {
-        height: 150px;
+        height: 110px;
+        
        
     }
     
     .carousel-fade {
-        width: 308px;
+        width: 375px;
+        
     }
      
     .bg-gris {
@@ -383,16 +385,15 @@ div.bgCard2 p {
     }
     /*tarjeta*/
 
-    .card {
-        width: 280px;
-        height: 146px;
-    }
-    .imagenCelular {
-       
-        background-size: contain;
-        background-repeat: no-repeat;
+    .marginTarjeta {
+        margin-top: 10px;
     }
 
+    .card {
+        width: 355px;
+        height: 146px;
+    }
+    
     div.bgCard {
         width: 110px;
         height: 90px;
@@ -402,7 +403,7 @@ div.bgCard2 p {
     }
 
     .positionCard {
-        right: 15px;
+        right: 5px;
         top: -5px;
     }
 
@@ -412,6 +413,7 @@ div.bgCard2 p {
         margin-left: 10px;
         color: grey;
         font-size: 12px;
+        
     }
     
     .bgCard h3 {
@@ -426,6 +428,7 @@ div.bgCard2 p {
         position: relative;
         top: -10px;
         font-size: 13px;
+       
     }
     /*tarjeta 2*/
 
@@ -438,12 +441,12 @@ div.bgCard2 p {
     }
 
     .positionCard2 {
-        left: 100px;
+        left: 150px;
         top: -50px;
     }
 
     #imagenLarga{
-        width: 280px;
+        width: 355px;
     }
 
     /*Pre footer*/
