@@ -184,8 +184,8 @@ div.bgCard3 p {
 div.bgCard2 {
     height: 80px;
     position: relative;
-    left: 30px;
-    bottom: 50px;
+    left: 5px;
+    top: 10px;
 }
 
 div.bgCard2 p {
